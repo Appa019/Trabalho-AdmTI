@@ -1,0 +1,809 @@
+Cidade,Bairro,Estação,Marca,Vendas (litros)
+São Paulo,Pinheiros,Verão,Heineken,154169
+São Paulo,Pinheiros,Verão,Spaten,92381
+São Paulo,Pinheiros,Outono,Heineken,179892
+São Paulo,Pinheiros,Outono,Spaten,115988
+São Paulo,Pinheiros,Inverno,Heineken,121542
+São Paulo,Pinheiros,Inverno,Spaten,118107
+São Paulo,Pinheiros,Primavera,Heineken,141270
+São Paulo,Pinheiros,Primavera,Spaten,151885
+São Paulo,Vila Madalena,Verão,Heineken,200471
+São Paulo,Vila Madalena,Verão,Spaten,81108
+São Paulo,Vila Madalena,Outono,Heineken,131445
+São Paulo,Vila Madalena,Outono,Spaten,134211
+São Paulo,Vila Madalena,Inverno,Heineken,88648
+São Paulo,Vila Madalena,Inverno,Spaten,91180
+São Paulo,Vila Madalena,Primavera,Heineken,84703
+São Paulo,Vila Madalena,Primavera,Spaten,69031
+São Paulo,Moema,Verão,Heineken,202702
+São Paulo,Moema,Verão,Spaten,170731
+São Paulo,Moema,Outono,Heineken,143778
+São Paulo,Moema,Outono,Spaten,107629
+São Paulo,Moema,Inverno,Heineken,91403
+São Paulo,Moema,Inverno,Spaten,112656
+São Paulo,Moema,Primavera,Heineken,112785
+São Paulo,Moema,Primavera,Spaten,87740
+São Paulo,Itaim Bibi,Verão,Heineken,240038
+São Paulo,Itaim Bibi,Verão,Spaten,166639
+São Paulo,Itaim Bibi,Outono,Heineken,140219
+São Paulo,Itaim Bibi,Outono,Spaten,131426
+São Paulo,Itaim Bibi,Inverno,Heineken,124540
+São Paulo,Itaim Bibi,Inverno,Spaten,82404
+São Paulo,Itaim Bibi,Primavera,Heineken,120113
+São Paulo,Itaim Bibi,Primavera,Spaten,93642
+São Paulo,Jardins,Verão,Heineken,165541
+São Paulo,Jardins,Verão,Spaten,107231
+São Paulo,Jardins,Outono,Heineken,108556
+São Paulo,Jardins,Outono,Spaten,130414
+São Paulo,Jardins,Inverno,Heineken,108815
+São Paulo,Jardins,Inverno,Spaten,99231
+São Paulo,Jardins,Primavera,Heineken,173551
+São Paulo,Jardins,Primavera,Spaten,59484
+São Paulo,Brooklin,Verão,Heineken,192348
+São Paulo,Brooklin,Verão,Spaten,163593
+São Paulo,Brooklin,Outono,Heineken,168943
+São Paulo,Brooklin,Outono,Spaten,77674
+São Paulo,Brooklin,Inverno,Heineken,70908
+São Paulo,Brooklin,Inverno,Spaten,112440
+São Paulo,Brooklin,Primavera,Heineken,145419
+São Paulo,Brooklin,Primavera,Spaten,97356
+São Paulo,Morumbi,Verão,Heineken,106757
+São Paulo,Morumbi,Verão,Spaten,103705
+São Paulo,Morumbi,Outono,Heineken,163606
+São Paulo,Morumbi,Outono,Spaten,156936
+São Paulo,Morumbi,Inverno,Heineken,75621
+São Paulo,Morumbi,Inverno,Spaten,111450
+São Paulo,Morumbi,Primavera,Heineken,162779
+São Paulo,Morumbi,Primavera,Spaten,122799
+São Paulo,Vila Mariana,Verão,Heineken,168799
+São Paulo,Vila Mariana,Verão,Spaten,88747
+São Paulo,Vila Mariana,Outono,Heineken,162406
+São Paulo,Vila Mariana,Outono,Spaten,115155
+São Paulo,Vila Mariana,Inverno,Heineken,68539
+São Paulo,Vila Mariana,Inverno,Spaten,83020
+São Paulo,Vila Mariana,Primavera,Heineken,117434
+São Paulo,Vila Mariana,Primavera,Spaten,96847
+São Paulo,Tatuapé,Verão,Heineken,253545
+São Paulo,Tatuapé,Verão,Spaten,83359
+São Paulo,Tatuapé,Outono,Heineken,93645
+São Paulo,Tatuapé,Outono,Spaten,67495
+São Paulo,Tatuapé,Inverno,Heineken,113591
+São Paulo,Tatuapé,Inverno,Spaten,92966
+São Paulo,Tatuapé,Primavera,Heineken,105199
+São Paulo,Tatuapé,Primavera,Spaten,122289
+São Paulo,Santana,Verão,Heineken,113818
+São Paulo,Santana,Verão,Spaten,128793
+São Paulo,Santana,Outono,Heineken,158709
+São Paulo,Santana,Outono,Spaten,134610
+São Paulo,Santana,Inverno,Heineken,108120
+São Paulo,Santana,Inverno,Spaten,117772
+São Paulo,Santana,Primavera,Heineken,173879
+São Paulo,Santana,Primavera,Spaten,123983
+São Paulo,Sé,Verão,Heineken,176423
+São Paulo,Sé,Verão,Spaten,101619
+São Paulo,Sé,Outono,Heineken,134420
+São Paulo,Sé,Outono,Spaten,115005
+São Paulo,Sé,Inverno,Heineken,148186
+São Paulo,Sé,Inverno,Spaten,80543
+São Paulo,Sé,Primavera,Heineken,159687
+São Paulo,Sé,Primavera,Spaten,93343
+São Paulo,Bela Vista,Verão,Heineken,203873
+São Paulo,Bela Vista,Verão,Spaten,118104
+São Paulo,Bela Vista,Outono,Heineken,125353
+São Paulo,Bela Vista,Outono,Spaten,123888
+São Paulo,Bela Vista,Inverno,Heineken,92643
+São Paulo,Bela Vista,Inverno,Spaten,66898
+São Paulo,Bela Vista,Primavera,Heineken,109394
+São Paulo,Bela Vista,Primavera,Spaten,57299
+São Paulo,Butantã,Verão,Heineken,166661
+São Paulo,Butantã,Verão,Spaten,101092
+São Paulo,Butantã,Outono,Heineken,88010
+São Paulo,Butantã,Outono,Spaten,74394
+São Paulo,Butantã,Inverno,Heineken,145750
+São Paulo,Butantã,Inverno,Spaten,94928
+São Paulo,Butantã,Primavera,Heineken,154929
+São Paulo,Butantã,Primavera,Spaten,87313
+São Paulo,Lapa,Verão,Heineken,168408
+São Paulo,Lapa,Verão,Spaten,116338
+São Paulo,Lapa,Outono,Heineken,149662
+São Paulo,Lapa,Outono,Spaten,63360
+São Paulo,Lapa,Inverno,Heineken,93858
+São Paulo,Lapa,Inverno,Spaten,84471
+São Paulo,Lapa,Primavera,Heineken,132269
+São Paulo,Lapa,Primavera,Spaten,83689
+São Paulo,Campo Limpo,Verão,Heineken,199369
+São Paulo,Campo Limpo,Verão,Spaten,132354
+São Paulo,Campo Limpo,Outono,Heineken,98237
+São Paulo,Campo Limpo,Outono,Spaten,99374
+São Paulo,Campo Limpo,Inverno,Heineken,97384
+São Paulo,Campo Limpo,Inverno,Spaten,118866
+São Paulo,Campo Limpo,Primavera,Heineken,122236
+São Paulo,Campo Limpo,Primavera,Spaten,87387
+São Paulo,Liberdade,Verão,Heineken,221100
+São Paulo,Liberdade,Verão,Spaten,116640
+São Paulo,Liberdade,Outono,Heineken,97883
+São Paulo,Liberdade,Outono,Spaten,125061
+São Paulo,Liberdade,Inverno,Heineken,111583
+São Paulo,Liberdade,Inverno,Spaten,99175
+São Paulo,Liberdade,Primavera,Heineken,163032
+São Paulo,Liberdade,Primavera,Spaten,142811
+São Paulo,Vila Prudente,Verão,Heineken,186606
+São Paulo,Vila Prudente,Verão,Spaten,105861
+São Paulo,Vila Prudente,Outono,Heineken,148446
+São Paulo,Vila Prudente,Outono,Spaten,69652
+São Paulo,Vila Prudente,Inverno,Heineken,121483
+São Paulo,Vila Prudente,Inverno,Spaten,88652
+São Paulo,Vila Prudente,Primavera,Heineken,146168
+São Paulo,Vila Prudente,Primavera,Spaten,111101
+São Paulo,Ipiranga,Verão,Heineken,210325
+São Paulo,Ipiranga,Verão,Spaten,109112
+São Paulo,Ipiranga,Outono,Heineken,138289
+São Paulo,Ipiranga,Outono,Spaten,154015
+São Paulo,Ipiranga,Inverno,Heineken,107445
+São Paulo,Ipiranga,Inverno,Spaten,96970
+São Paulo,Ipiranga,Primavera,Heineken,93695
+São Paulo,Ipiranga,Primavera,Spaten,95409
+São Paulo,Barra Funda,Verão,Heineken,252639
+São Paulo,Barra Funda,Verão,Spaten,98425
+São Paulo,Barra Funda,Outono,Heineken,203869
+São Paulo,Barra Funda,Outono,Spaten,93443
+São Paulo,Barra Funda,Inverno,Heineken,77471
+São Paulo,Barra Funda,Inverno,Spaten,107233
+São Paulo,Barra Funda,Primavera,Heineken,187816
+São Paulo,Barra Funda,Primavera,Spaten,122034
+São Paulo,Perdizes,Verão,Heineken,140738
+São Paulo,Perdizes,Verão,Spaten,76607
+São Paulo,Perdizes,Outono,Heineken,100065
+São Paulo,Perdizes,Outono,Spaten,127621
+São Paulo,Perdizes,Inverno,Heineken,125025
+São Paulo,Perdizes,Inverno,Spaten,114651
+São Paulo,Perdizes,Primavera,Heineken,186227
+São Paulo,Perdizes,Primavera,Spaten,143142
+São Paulo,São Mateus,Verão,Heineken,225949
+São Paulo,São Mateus,Verão,Spaten,152682
+São Paulo,São Mateus,Outono,Heineken,205487
+São Paulo,São Mateus,Outono,Spaten,109803
+São Paulo,São Mateus,Inverno,Heineken,107384
+São Paulo,São Mateus,Inverno,Spaten,58180
+São Paulo,São Mateus,Primavera,Heineken,186666
+São Paulo,São Mateus,Primavera,Spaten,123836
+São Paulo,Cidade Ademar,Verão,Heineken,147783
+São Paulo,Cidade Ademar,Verão,Spaten,153345
+São Paulo,Cidade Ademar,Outono,Heineken,80744
+São Paulo,Cidade Ademar,Outono,Spaten,108522
+São Paulo,Cidade Ademar,Inverno,Heineken,119465
+São Paulo,Cidade Ademar,Inverno,Spaten,75805
+São Paulo,Cidade Ademar,Primavera,Heineken,131638
+São Paulo,Cidade Ademar,Primavera,Spaten,85593
+São Paulo,Cidade Tiradentes,Verão,Heineken,137170
+São Paulo,Cidade Tiradentes,Verão,Spaten,117557
+São Paulo,Cidade Tiradentes,Outono,Heineken,95485
+São Paulo,Cidade Tiradentes,Outono,Spaten,96009
+São Paulo,Cidade Tiradentes,Inverno,Heineken,96517
+São Paulo,Cidade Tiradentes,Inverno,Spaten,111873
+São Paulo,Cidade Tiradentes,Primavera,Heineken,146773
+São Paulo,Cidade Tiradentes,Primavera,Spaten,70215
+São Paulo,Mooca,Verão,Heineken,199853
+São Paulo,Mooca,Verão,Spaten,111537
+São Paulo,Mooca,Outono,Heineken,187667
+São Paulo,Mooca,Outono,Spaten,60799
+São Paulo,Mooca,Inverno,Heineken,116638
+São Paulo,Mooca,Inverno,Spaten,122146
+São Paulo,Mooca,Primavera,Heineken,131061
+São Paulo,Mooca,Primavera,Spaten,114036
+São Paulo,Santo Amaro,Verão,Heineken,238651
+São Paulo,Santo Amaro,Verão,Spaten,146866
+São Paulo,Santo Amaro,Outono,Heineken,135707
+São Paulo,Santo Amaro,Outono,Spaten,64193
+São Paulo,Santo Amaro,Inverno,Heineken,90566
+São Paulo,Santo Amaro,Inverno,Spaten,66784
+São Paulo,Santo Amaro,Primavera,Heineken,187192
+São Paulo,Santo Amaro,Primavera,Spaten,92455
+São Paulo,Jabaquara,Verão,Heineken,164713
+São Paulo,Jabaquara,Verão,Spaten,172144
+São Paulo,Jabaquara,Outono,Heineken,132053
+São Paulo,Jabaquara,Outono,Spaten,102935
+São Paulo,Jabaquara,Inverno,Heineken,111256
+São Paulo,Jabaquara,Inverno,Spaten,73111
+São Paulo,Jabaquara,Primavera,Heineken,127940
+São Paulo,Jabaquara,Primavera,Spaten,121424
+São Paulo,Penha,Verão,Heineken,155057
+São Paulo,Penha,Verão,Spaten,83857
+São Paulo,Penha,Outono,Heineken,101539
+São Paulo,Penha,Outono,Spaten,67018
+São Paulo,Penha,Inverno,Heineken,84116
+São Paulo,Penha,Inverno,Spaten,54317
+São Paulo,Penha,Primavera,Heineken,139367
+São Paulo,Penha,Primavera,Spaten,118757
+São Paulo,Brás,Verão,Heineken,144818
+São Paulo,Brás,Verão,Spaten,114216
+São Paulo,Brás,Outono,Heineken,133636
+São Paulo,Brás,Outono,Spaten,122305
+São Paulo,Brás,Inverno,Heineken,128809
+São Paulo,Brás,Inverno,Spaten,80837
+São Paulo,Brás,Primavera,Heineken,200427
+São Paulo,Brás,Primavera,Spaten,120616
+São Paulo,Vila Clementino,Verão,Heineken,167494
+São Paulo,Vila Clementino,Verão,Spaten,168574
+São Paulo,Vila Clementino,Outono,Heineken,104458
+São Paulo,Vila Clementino,Outono,Spaten,75560
+São Paulo,Vila Clementino,Inverno,Heineken,90145
+São Paulo,Vila Clementino,Inverno,Spaten,108456
+São Paulo,Vila Clementino,Primavera,Heineken,150424
+São Paulo,Vila Clementino,Primavera,Spaten,117758
+São Paulo,Pari,Verão,Heineken,168034
+São Paulo,Pari,Verão,Spaten,121659
+São Paulo,Pari,Outono,Heineken,128460
+São Paulo,Pari,Outono,Spaten,62558
+São Paulo,Pari,Inverno,Heineken,120829
+São Paulo,Pari,Inverno,Spaten,45984
+São Paulo,Pari,Primavera,Heineken,220336
+São Paulo,Pari,Primavera,Spaten,108961
+Rio de Janeiro,Copacabana,Verão,Heineken,131210
+Rio de Janeiro,Copacabana,Verão,Spaten,87974
+Rio de Janeiro,Copacabana,Outono,Heineken,172057
+Rio de Janeiro,Copacabana,Outono,Spaten,119845
+Rio de Janeiro,Copacabana,Inverno,Heineken,109929
+Rio de Janeiro,Copacabana,Inverno,Spaten,118871
+Rio de Janeiro,Copacabana,Primavera,Heineken,167912
+Rio de Janeiro,Copacabana,Primavera,Spaten,83491
+Rio de Janeiro,Ipanema,Verão,Heineken,164657
+Rio de Janeiro,Ipanema,Verão,Spaten,78561
+Rio de Janeiro,Ipanema,Outono,Heineken,87328
+Rio de Janeiro,Ipanema,Outono,Spaten,89035
+Rio de Janeiro,Ipanema,Inverno,Heineken,153598
+Rio de Janeiro,Ipanema,Inverno,Spaten,53960
+Rio de Janeiro,Ipanema,Primavera,Heineken,141974
+Rio de Janeiro,Ipanema,Primavera,Spaten,101742
+Rio de Janeiro,Barra da Tijuca,Verão,Heineken,226217
+Rio de Janeiro,Barra da Tijuca,Verão,Spaten,147194
+Rio de Janeiro,Barra da Tijuca,Outono,Heineken,154236
+Rio de Janeiro,Barra da Tijuca,Outono,Spaten,88842
+Rio de Janeiro,Barra da Tijuca,Inverno,Heineken,134612
+Rio de Janeiro,Barra da Tijuca,Inverno,Spaten,120965
+Rio de Janeiro,Barra da Tijuca,Primavera,Heineken,101377
+Rio de Janeiro,Barra da Tijuca,Primavera,Spaten,103090
+Rio de Janeiro,Tijuca,Verão,Heineken,198196
+Rio de Janeiro,Tijuca,Verão,Spaten,82176
+Rio de Janeiro,Tijuca,Outono,Heineken,120889
+Rio de Janeiro,Tijuca,Outono,Spaten,63125
+Rio de Janeiro,Tijuca,Inverno,Heineken,85612
+Rio de Janeiro,Tijuca,Inverno,Spaten,40604
+Rio de Janeiro,Tijuca,Primavera,Heineken,161194
+Rio de Janeiro,Tijuca,Primavera,Spaten,63675
+Rio de Janeiro,Botafogo,Verão,Heineken,110031
+Rio de Janeiro,Botafogo,Verão,Spaten,89659
+Rio de Janeiro,Botafogo,Outono,Heineken,90727
+Rio de Janeiro,Botafogo,Outono,Spaten,96355
+Rio de Janeiro,Botafogo,Inverno,Heineken,107545
+Rio de Janeiro,Botafogo,Inverno,Spaten,96454
+Rio de Janeiro,Botafogo,Primavera,Heineken,177900
+Rio de Janeiro,Botafogo,Primavera,Spaten,135236
+Rio de Janeiro,Lapa,Verão,Heineken,186475
+Rio de Janeiro,Lapa,Verão,Spaten,88257
+Rio de Janeiro,Lapa,Outono,Heineken,158602
+Rio de Janeiro,Lapa,Outono,Spaten,119718
+Rio de Janeiro,Lapa,Inverno,Heineken,80941
+Rio de Janeiro,Lapa,Inverno,Spaten,50797
+Rio de Janeiro,Lapa,Primavera,Heineken,86064
+Rio de Janeiro,Lapa,Primavera,Spaten,95469
+Rio de Janeiro,Recreio,Verão,Heineken,238936
+Rio de Janeiro,Recreio,Verão,Spaten,163107
+Rio de Janeiro,Recreio,Outono,Heineken,177179
+Rio de Janeiro,Recreio,Outono,Spaten,70990
+Rio de Janeiro,Recreio,Inverno,Heineken,141481
+Rio de Janeiro,Recreio,Inverno,Spaten,90363
+Rio de Janeiro,Recreio,Primavera,Heineken,134438
+Rio de Janeiro,Recreio,Primavera,Spaten,107541
+Rio de Janeiro,Centro,Verão,Heineken,132904
+Rio de Janeiro,Centro,Verão,Spaten,102829
+Rio de Janeiro,Centro,Outono,Heineken,139672
+Rio de Janeiro,Centro,Outono,Spaten,49878
+Rio de Janeiro,Centro,Inverno,Heineken,106874
+Rio de Janeiro,Centro,Inverno,Spaten,107803
+Rio de Janeiro,Centro,Primavera,Heineken,143086
+Rio de Janeiro,Centro,Primavera,Spaten,107547
+Rio de Janeiro,Leblon,Verão,Heineken,147030
+Rio de Janeiro,Leblon,Verão,Spaten,137447
+Rio de Janeiro,Leblon,Outono,Heineken,101398
+Rio de Janeiro,Leblon,Outono,Spaten,144951
+Rio de Janeiro,Leblon,Inverno,Heineken,138679
+Rio de Janeiro,Leblon,Inverno,Spaten,103425
+Rio de Janeiro,Leblon,Primavera,Heineken,115084
+Rio de Janeiro,Leblon,Primavera,Spaten,83566
+Rio de Janeiro,Flamengo,Verão,Heineken,154324
+Rio de Janeiro,Flamengo,Verão,Spaten,108532
+Rio de Janeiro,Flamengo,Outono,Heineken,132869
+Rio de Janeiro,Flamengo,Outono,Spaten,71013
+Rio de Janeiro,Flamengo,Inverno,Heineken,141731
+Rio de Janeiro,Flamengo,Inverno,Spaten,79230
+Rio de Janeiro,Flamengo,Primavera,Heineken,183843
+Rio de Janeiro,Flamengo,Primavera,Spaten,85634
+Rio de Janeiro,Santa Teresa,Verão,Heineken,135267
+Rio de Janeiro,Santa Teresa,Verão,Spaten,117772
+Rio de Janeiro,Santa Teresa,Outono,Heineken,136832
+Rio de Janeiro,Santa Teresa,Outono,Spaten,122656
+Rio de Janeiro,Santa Teresa,Inverno,Heineken,100554
+Rio de Janeiro,Santa Teresa,Inverno,Spaten,97518
+Rio de Janeiro,Santa Teresa,Primavera,Heineken,95651
+Rio de Janeiro,Santa Teresa,Primavera,Spaten,100581
+Rio de Janeiro,São Conrado,Verão,Heineken,180529
+Rio de Janeiro,São Conrado,Verão,Spaten,162847
+Rio de Janeiro,São Conrado,Outono,Heineken,99374
+Rio de Janeiro,São Conrado,Outono,Spaten,147058
+Rio de Janeiro,São Conrado,Inverno,Heineken,57409
+Rio de Janeiro,São Conrado,Inverno,Spaten,69610
+Rio de Janeiro,São Conrado,Primavera,Heineken,129171
+Rio de Janeiro,São Conrado,Primavera,Spaten,113560
+Rio de Janeiro,Jacarepaguá,Verão,Heineken,179699
+Rio de Janeiro,Jacarepaguá,Verão,Spaten,89882
+Rio de Janeiro,Jacarepaguá,Outono,Heineken,91099
+Rio de Janeiro,Jacarepaguá,Outono,Spaten,110333
+Rio de Janeiro,Jacarepaguá,Inverno,Heineken,97401
+Rio de Janeiro,Jacarepaguá,Inverno,Spaten,76548
+Rio de Janeiro,Jacarepaguá,Primavera,Heineken,120392
+Rio de Janeiro,Jacarepaguá,Primavera,Spaten,95230
+Rio de Janeiro,Méier,Verão,Heineken,206582
+Rio de Janeiro,Méier,Verão,Spaten,138015
+Rio de Janeiro,Méier,Outono,Heineken,131626
+Rio de Janeiro,Méier,Outono,Spaten,83122
+Rio de Janeiro,Méier,Inverno,Heineken,92750
+Rio de Janeiro,Méier,Inverno,Spaten,59321
+Rio de Janeiro,Méier,Primavera,Heineken,127179
+Rio de Janeiro,Méier,Primavera,Spaten,103464
+Rio de Janeiro,Glória,Verão,Heineken,172275
+Rio de Janeiro,Glória,Verão,Spaten,67228
+Rio de Janeiro,Glória,Outono,Heineken,106746
+Rio de Janeiro,Glória,Outono,Spaten,112644
+Rio de Janeiro,Glória,Inverno,Heineken,137167
+Rio de Janeiro,Glória,Inverno,Spaten,49090
+Rio de Janeiro,Glória,Primavera,Heineken,153972
+Rio de Janeiro,Glória,Primavera,Spaten,128241
+Rio de Janeiro,Campo Grande,Verão,Heineken,151245
+Rio de Janeiro,Campo Grande,Verão,Spaten,97058
+Rio de Janeiro,Campo Grande,Outono,Heineken,87014
+Rio de Janeiro,Campo Grande,Outono,Spaten,121172
+Rio de Janeiro,Campo Grande,Inverno,Heineken,135409
+Rio de Janeiro,Campo Grande,Inverno,Spaten,60668
+Rio de Janeiro,Campo Grande,Primavera,Heineken,109669
+Rio de Janeiro,Campo Grande,Primavera,Spaten,67705
+Rio de Janeiro,Madureira,Verão,Heineken,192523
+Rio de Janeiro,Madureira,Verão,Spaten,89313
+Rio de Janeiro,Madureira,Outono,Heineken,142833
+Rio de Janeiro,Madureira,Outono,Spaten,78248
+Rio de Janeiro,Madureira,Inverno,Heineken,165459
+Rio de Janeiro,Madureira,Inverno,Spaten,65102
+Rio de Janeiro,Madureira,Primavera,Heineken,147041
+Rio de Janeiro,Madureira,Primavera,Spaten,87688
+Rio de Janeiro,Maracanã,Verão,Heineken,93691
+Rio de Janeiro,Maracanã,Verão,Spaten,130691
+Rio de Janeiro,Maracanã,Outono,Heineken,99171
+Rio de Janeiro,Maracanã,Outono,Spaten,88000
+Rio de Janeiro,Maracanã,Inverno,Heineken,104001
+Rio de Janeiro,Maracanã,Inverno,Spaten,72736
+Rio de Janeiro,Maracanã,Primavera,Heineken,116163
+Rio de Janeiro,Maracanã,Primavera,Spaten,136831
+Rio de Janeiro,Bangu,Verão,Heineken,101581
+Rio de Janeiro,Bangu,Verão,Spaten,134604
+Rio de Janeiro,Bangu,Outono,Heineken,110134
+Rio de Janeiro,Bangu,Outono,Spaten,54752
+Rio de Janeiro,Bangu,Inverno,Heineken,77984
+Rio de Janeiro,Bangu,Inverno,Spaten,49580
+Rio de Janeiro,Bangu,Primavera,Heineken,90869
+Rio de Janeiro,Bangu,Primavera,Spaten,124560
+Rio de Janeiro,Vila Isabel,Verão,Heineken,224347
+Rio de Janeiro,Vila Isabel,Verão,Spaten,108163
+Rio de Janeiro,Vila Isabel,Outono,Heineken,116479
+Rio de Janeiro,Vila Isabel,Outono,Spaten,96795
+Rio de Janeiro,Vila Isabel,Inverno,Heineken,148517
+Rio de Janeiro,Vila Isabel,Inverno,Spaten,83433
+Rio de Janeiro,Vila Isabel,Primavera,Heineken,111647
+Rio de Janeiro,Vila Isabel,Primavera,Spaten,95030
+Rio de Janeiro,Ilha do Governador,Verão,Heineken,190850
+Rio de Janeiro,Ilha do Governador,Verão,Spaten,106124
+Rio de Janeiro,Ilha do Governador,Outono,Heineken,85805
+Rio de Janeiro,Ilha do Governador,Outono,Spaten,70421
+Rio de Janeiro,Ilha do Governador,Inverno,Heineken,85113
+Rio de Janeiro,Ilha do Governador,Inverno,Spaten,80606
+Rio de Janeiro,Ilha do Governador,Primavera,Heineken,120571
+Rio de Janeiro,Ilha do Governador,Primavera,Spaten,96943
+Rio de Janeiro,Ramos,Verão,Heineken,156096
+Rio de Janeiro,Ramos,Verão,Spaten,80714
+Rio de Janeiro,Ramos,Outono,Heineken,77236
+Rio de Janeiro,Ramos,Outono,Spaten,84010
+Rio de Janeiro,Ramos,Inverno,Heineken,79731
+Rio de Janeiro,Ramos,Inverno,Spaten,102328
+Rio de Janeiro,Ramos,Primavera,Heineken,171526
+Rio de Janeiro,Ramos,Primavera,Spaten,116851
+Rio de Janeiro,Engenho Novo,Verão,Heineken,114241
+Rio de Janeiro,Engenho Novo,Verão,Spaten,141691
+Rio de Janeiro,Engenho Novo,Outono,Heineken,165343
+Rio de Janeiro,Engenho Novo,Outono,Spaten,74699
+Rio de Janeiro,Engenho Novo,Inverno,Heineken,147541
+Rio de Janeiro,Engenho Novo,Inverno,Spaten,114458
+Rio de Janeiro,Engenho Novo,Primavera,Heineken,158943
+Rio de Janeiro,Engenho Novo,Primavera,Spaten,94127
+Rio de Janeiro,Penha,Verão,Heineken,194610
+Rio de Janeiro,Penha,Verão,Spaten,86802
+Rio de Janeiro,Penha,Outono,Heineken,139659
+Rio de Janeiro,Penha,Outono,Spaten,127639
+Rio de Janeiro,Penha,Inverno,Heineken,84902
+Rio de Janeiro,Penha,Inverno,Spaten,45617
+Rio de Janeiro,Penha,Primavera,Heineken,103085
+Rio de Janeiro,Penha,Primavera,Spaten,75132
+Rio de Janeiro,Vaz Lobo,Verão,Heineken,178795
+Rio de Janeiro,Vaz Lobo,Verão,Spaten,76630
+Rio de Janeiro,Vaz Lobo,Outono,Heineken,162999
+Rio de Janeiro,Vaz Lobo,Outono,Spaten,145715
+Rio de Janeiro,Vaz Lobo,Inverno,Heineken,64362
+Rio de Janeiro,Vaz Lobo,Inverno,Spaten,85795
+Rio de Janeiro,Vaz Lobo,Primavera,Heineken,115854
+Rio de Janeiro,Vaz Lobo,Primavera,Spaten,106950
+Rio de Janeiro,Realengo,Verão,Heineken,133865
+Rio de Janeiro,Realengo,Verão,Spaten,120062
+Rio de Janeiro,Realengo,Outono,Heineken,162852
+Rio de Janeiro,Realengo,Outono,Spaten,115063
+Rio de Janeiro,Realengo,Inverno,Heineken,81455
+Rio de Janeiro,Realengo,Inverno,Spaten,58749
+Rio de Janeiro,Realengo,Primavera,Heineken,122607
+Rio de Janeiro,Realengo,Primavera,Spaten,112653
+Rio de Janeiro,Pilares,Verão,Heineken,204989
+Rio de Janeiro,Pilares,Verão,Spaten,66775
+Rio de Janeiro,Pilares,Outono,Heineken,109979
+Rio de Janeiro,Pilares,Outono,Spaten,101286
+Rio de Janeiro,Pilares,Inverno,Heineken,72639
+Rio de Janeiro,Pilares,Inverno,Spaten,52665
+Rio de Janeiro,Pilares,Primavera,Heineken,113079
+Rio de Janeiro,Pilares,Primavera,Spaten,89854
+Rio de Janeiro,Praça Seca,Verão,Heineken,152690
+Rio de Janeiro,Praça Seca,Verão,Spaten,149373
+Rio de Janeiro,Praça Seca,Outono,Heineken,176047
+Rio de Janeiro,Praça Seca,Outono,Spaten,71365
+Rio de Janeiro,Praça Seca,Inverno,Heineken,107333
+Rio de Janeiro,Praça Seca,Inverno,Spaten,83730
+Rio de Janeiro,Praça Seca,Primavera,Heineken,160658
+Rio de Janeiro,Praça Seca,Primavera,Spaten,110704
+Rio de Janeiro,Santa Cruz,Verão,Heineken,166949
+Rio de Janeiro,Santa Cruz,Verão,Spaten,87710
+Rio de Janeiro,Santa Cruz,Outono,Heineken,171114
+Rio de Janeiro,Santa Cruz,Outono,Spaten,86659
+Rio de Janeiro,Santa Cruz,Inverno,Heineken,151048
+Rio de Janeiro,Santa Cruz,Inverno,Spaten,76004
+Rio de Janeiro,Santa Cruz,Primavera,Heineken,123263
+Rio de Janeiro,Santa Cruz,Primavera,Spaten,80816
+Rio de Janeiro,Quintino,Verão,Heineken,91664
+Rio de Janeiro,Quintino,Verão,Spaten,96727
+Rio de Janeiro,Quintino,Outono,Heineken,103404
+Rio de Janeiro,Quintino,Outono,Spaten,90767
+Rio de Janeiro,Quintino,Inverno,Heineken,87891
+Rio de Janeiro,Quintino,Inverno,Spaten,120859
+Rio de Janeiro,Quintino,Primavera,Heineken,87378
+Rio de Janeiro,Quintino,Primavera,Spaten,84208
+Rio de Janeiro,Cidade de Deus,Verão,Heineken,89395
+Rio de Janeiro,Cidade de Deus,Verão,Spaten,99882
+Rio de Janeiro,Cidade de Deus,Outono,Heineken,151898
+Rio de Janeiro,Cidade de Deus,Outono,Spaten,106632
+Rio de Janeiro,Cidade de Deus,Inverno,Heineken,118502
+Rio de Janeiro,Cidade de Deus,Inverno,Spaten,49501
+Rio de Janeiro,Cidade de Deus,Primavera,Heineken,168453
+Rio de Janeiro,Cidade de Deus,Primavera,Spaten,96520
+Santa Catarina,Florianópolis,Verão,Heineken,100256
+Santa Catarina,Florianópolis,Verão,Spaten,94802
+Santa Catarina,Florianópolis,Outono,Heineken,97354
+Santa Catarina,Florianópolis,Outono,Spaten,95576
+Santa Catarina,Florianópolis,Inverno,Heineken,61427
+Santa Catarina,Florianópolis,Inverno,Spaten,54137
+Santa Catarina,Florianópolis,Primavera,Heineken,64621
+Santa Catarina,Florianópolis,Primavera,Spaten,85346
+Santa Catarina,Joinville,Verão,Heineken,150031
+Santa Catarina,Joinville,Verão,Spaten,131130
+Santa Catarina,Joinville,Outono,Heineken,131600
+Santa Catarina,Joinville,Outono,Spaten,46625
+Santa Catarina,Joinville,Inverno,Heineken,120690
+Santa Catarina,Joinville,Inverno,Spaten,38999
+Santa Catarina,Joinville,Primavera,Heineken,73960
+Santa Catarina,Joinville,Primavera,Spaten,113384
+Santa Catarina,Blumenau,Verão,Heineken,142467
+Santa Catarina,Blumenau,Verão,Spaten,61163
+Santa Catarina,Blumenau,Outono,Heineken,127450
+Santa Catarina,Blumenau,Outono,Spaten,97609
+Santa Catarina,Blumenau,Inverno,Heineken,59793
+Santa Catarina,Blumenau,Inverno,Spaten,45826
+Santa Catarina,Blumenau,Primavera,Heineken,83048
+Santa Catarina,Blumenau,Primavera,Spaten,54032
+Santa Catarina,São José,Verão,Heineken,148453
+Santa Catarina,São José,Verão,Spaten,63717
+Santa Catarina,São José,Outono,Heineken,69272
+Santa Catarina,São José,Outono,Spaten,63430
+Santa Catarina,São José,Inverno,Heineken,72131
+Santa Catarina,São José,Inverno,Spaten,35561
+Santa Catarina,São José,Primavera,Heineken,104779
+Santa Catarina,São José,Primavera,Spaten,47854
+Santa Catarina,Criciúma,Verão,Heineken,169147
+Santa Catarina,Criciúma,Verão,Spaten,85379
+Santa Catarina,Criciúma,Outono,Heineken,94908
+Santa Catarina,Criciúma,Outono,Spaten,59076
+Santa Catarina,Criciúma,Inverno,Heineken,91134
+Santa Catarina,Criciúma,Inverno,Spaten,72687
+Santa Catarina,Criciúma,Primavera,Heineken,59175
+Santa Catarina,Criciúma,Primavera,Spaten,61778
+Santa Catarina,Itajaí,Verão,Heineken,81683
+Santa Catarina,Itajaí,Verão,Spaten,143517
+Santa Catarina,Itajaí,Outono,Heineken,130852
+Santa Catarina,Itajaí,Outono,Spaten,89742
+Santa Catarina,Itajaí,Inverno,Heineken,121305
+Santa Catarina,Itajaí,Inverno,Spaten,51348
+Santa Catarina,Itajaí,Primavera,Heineken,108717
+Santa Catarina,Itajaí,Primavera,Spaten,103325
+Santa Catarina,Balneário Camboriú,Verão,Heineken,160651
+Santa Catarina,Balneário Camboriú,Verão,Spaten,88603
+Santa Catarina,Balneário Camboriú,Outono,Heineken,70126
+Santa Catarina,Balneário Camboriú,Outono,Spaten,82394
+Santa Catarina,Balneário Camboriú,Inverno,Heineken,63858
+Santa Catarina,Balneário Camboriú,Inverno,Spaten,68407
+Santa Catarina,Balneário Camboriú,Primavera,Heineken,106579
+Santa Catarina,Balneário Camboriú,Primavera,Spaten,65978
+Santa Catarina,Chapecó,Verão,Heineken,154972
+Santa Catarina,Chapecó,Verão,Spaten,93500
+Santa Catarina,Chapecó,Outono,Heineken,110905
+Santa Catarina,Chapecó,Outono,Spaten,53954
+Santa Catarina,Chapecó,Inverno,Heineken,91332
+Santa Catarina,Chapecó,Inverno,Spaten,74027
+Santa Catarina,Chapecó,Primavera,Heineken,73310
+Santa Catarina,Chapecó,Primavera,Spaten,87210
+Santa Catarina,Jaraguá do Sul,Verão,Heineken,125988
+Santa Catarina,Jaraguá do Sul,Verão,Spaten,108307
+Santa Catarina,Jaraguá do Sul,Outono,Heineken,118088
+Santa Catarina,Jaraguá do Sul,Outono,Spaten,104902
+Santa Catarina,Jaraguá do Sul,Inverno,Heineken,103585
+Santa Catarina,Jaraguá do Sul,Inverno,Spaten,65751
+Santa Catarina,Jaraguá do Sul,Primavera,Heineken,165544
+Santa Catarina,Jaraguá do Sul,Primavera,Spaten,70025
+Santa Catarina,Lages,Verão,Heineken,168465
+Santa Catarina,Lages,Verão,Spaten,58144
+Santa Catarina,Lages,Outono,Heineken,142669
+Santa Catarina,Lages,Outono,Spaten,82489
+Santa Catarina,Lages,Inverno,Heineken,59294
+Santa Catarina,Lages,Inverno,Spaten,60787
+Santa Catarina,Lages,Primavera,Heineken,105279
+Santa Catarina,Lages,Primavera,Spaten,85984
+Santa Catarina,Brusque,Verão,Heineken,168652
+Santa Catarina,Brusque,Verão,Spaten,127841
+Santa Catarina,Brusque,Outono,Heineken,104374
+Santa Catarina,Brusque,Outono,Spaten,65297
+Santa Catarina,Brusque,Inverno,Heineken,54480
+Santa Catarina,Brusque,Inverno,Spaten,59405
+Santa Catarina,Brusque,Primavera,Heineken,106919
+Santa Catarina,Brusque,Primavera,Spaten,69893
+Santa Catarina,Rio do Sul,Verão,Heineken,202918
+Santa Catarina,Rio do Sul,Verão,Spaten,91587
+Santa Catarina,Rio do Sul,Outono,Heineken,129545
+Santa Catarina,Rio do Sul,Outono,Spaten,95330
+Santa Catarina,Rio do Sul,Inverno,Heineken,130353
+Santa Catarina,Rio do Sul,Inverno,Spaten,61631
+Santa Catarina,Rio do Sul,Primavera,Heineken,152363
+Santa Catarina,Rio do Sul,Primavera,Spaten,96743
+Santa Catarina,Tubarão,Verão,Heineken,124430
+Santa Catarina,Tubarão,Verão,Spaten,102883
+Santa Catarina,Tubarão,Outono,Heineken,87272
+Santa Catarina,Tubarão,Outono,Spaten,93735
+Santa Catarina,Tubarão,Inverno,Heineken,85731
+Santa Catarina,Tubarão,Inverno,Spaten,56689
+Santa Catarina,Tubarão,Primavera,Heineken,85994
+Santa Catarina,Tubarão,Primavera,Spaten,84374
+Santa Catarina,Palhoça,Verão,Heineken,142619
+Santa Catarina,Palhoça,Verão,Spaten,85219
+Santa Catarina,Palhoça,Outono,Heineken,155866
+Santa Catarina,Palhoça,Outono,Spaten,63966
+Santa Catarina,Palhoça,Inverno,Heineken,106417
+Santa Catarina,Palhoça,Inverno,Spaten,43418
+Santa Catarina,Palhoça,Primavera,Heineken,86484
+Santa Catarina,Palhoça,Primavera,Spaten,99989
+Santa Catarina,Caçador,Verão,Heineken,139054
+Santa Catarina,Caçador,Verão,Spaten,118948
+Santa Catarina,Caçador,Outono,Heineken,91472
+Santa Catarina,Caçador,Outono,Spaten,85485
+Santa Catarina,Caçador,Inverno,Heineken,95189
+Santa Catarina,Caçador,Inverno,Spaten,54551
+Santa Catarina,Caçador,Primavera,Heineken,97960
+Santa Catarina,Caçador,Primavera,Spaten,80972
+Santa Catarina,São Bento do Sul,Verão,Heineken,146133
+Santa Catarina,São Bento do Sul,Verão,Spaten,80966
+Santa Catarina,São Bento do Sul,Outono,Heineken,90473
+Santa Catarina,São Bento do Sul,Outono,Spaten,85273
+Santa Catarina,São Bento do Sul,Inverno,Heineken,61799
+Santa Catarina,São Bento do Sul,Inverno,Spaten,64719
+Santa Catarina,São Bento do Sul,Primavera,Heineken,109440
+Santa Catarina,São Bento do Sul,Primavera,Spaten,61198
+Santa Catarina,Camboriú,Verão,Heineken,151562
+Santa Catarina,Camboriú,Verão,Spaten,97429
+Santa Catarina,Camboriú,Outono,Heineken,122727
+Santa Catarina,Camboriú,Outono,Spaten,79311
+Santa Catarina,Camboriú,Inverno,Heineken,101539
+Santa Catarina,Camboriú,Inverno,Spaten,53513
+Santa Catarina,Camboriú,Primavera,Heineken,114568
+Santa Catarina,Camboriú,Primavera,Spaten,97164
+Santa Catarina,Indaial,Verão,Heineken,130184
+Santa Catarina,Indaial,Verão,Spaten,104204
+Santa Catarina,Indaial,Outono,Heineken,102119
+Santa Catarina,Indaial,Outono,Spaten,46058
+Santa Catarina,Indaial,Inverno,Heineken,64634
+Santa Catarina,Indaial,Inverno,Spaten,68536
+Santa Catarina,Indaial,Primavera,Heineken,169627
+Santa Catarina,Indaial,Primavera,Spaten,91417
+Santa Catarina,Concórdia,Verão,Heineken,136306
+Santa Catarina,Concórdia,Verão,Spaten,63281
+Santa Catarina,Concórdia,Outono,Heineken,87162
+Santa Catarina,Concórdia,Outono,Spaten,74614
+Santa Catarina,Concórdia,Inverno,Heineken,75761
+Santa Catarina,Concórdia,Inverno,Spaten,67786
+Santa Catarina,Concórdia,Primavera,Heineken,124745
+Santa Catarina,Concórdia,Primavera,Spaten,78722
+Santa Catarina,Videira,Verão,Heineken,181840
+Santa Catarina,Videira,Verão,Spaten,63745
+Santa Catarina,Videira,Outono,Heineken,78141
+Santa Catarina,Videira,Outono,Spaten,63439
+Santa Catarina,Videira,Inverno,Heineken,91872
+Santa Catarina,Videira,Inverno,Spaten,60915
+Santa Catarina,Videira,Primavera,Heineken,65848
+Santa Catarina,Videira,Primavera,Spaten,44194
+Belo Horizonte,Savassi,Verão,Heineken,128436
+Belo Horizonte,Savassi,Verão,Spaten,142045
+Belo Horizonte,Savassi,Outono,Heineken,91972
+Belo Horizonte,Savassi,Outono,Spaten,51074
+Belo Horizonte,Savassi,Inverno,Heineken,103250
+Belo Horizonte,Savassi,Inverno,Spaten,71992
+Belo Horizonte,Savassi,Primavera,Heineken,71523
+Belo Horizonte,Savassi,Primavera,Spaten,96285
+Belo Horizonte,Pampulha,Verão,Heineken,124559
+Belo Horizonte,Pampulha,Verão,Spaten,104773
+Belo Horizonte,Pampulha,Outono,Heineken,114115
+Belo Horizonte,Pampulha,Outono,Spaten,112195
+Belo Horizonte,Pampulha,Inverno,Heineken,102304
+Belo Horizonte,Pampulha,Inverno,Spaten,90923
+Belo Horizonte,Pampulha,Primavera,Heineken,159378
+Belo Horizonte,Pampulha,Primavera,Spaten,96723
+Belo Horizonte,Centro,Verão,Heineken,188121
+Belo Horizonte,Centro,Verão,Spaten,78292
+Belo Horizonte,Centro,Outono,Heineken,185399
+Belo Horizonte,Centro,Outono,Spaten,78622
+Belo Horizonte,Centro,Inverno,Heineken,102991
+Belo Horizonte,Centro,Inverno,Spaten,78811
+Belo Horizonte,Centro,Primavera,Heineken,83018
+Belo Horizonte,Centro,Primavera,Spaten,55340
+Belo Horizonte,Cidade Nova,Verão,Heineken,110874
+Belo Horizonte,Cidade Nova,Verão,Spaten,146483
+Belo Horizonte,Cidade Nova,Outono,Heineken,94096
+Belo Horizonte,Cidade Nova,Outono,Spaten,82574
+Belo Horizonte,Cidade Nova,Inverno,Heineken,62684
+Belo Horizonte,Cidade Nova,Inverno,Spaten,74228
+Belo Horizonte,Cidade Nova,Primavera,Heineken,132547
+Belo Horizonte,Cidade Nova,Primavera,Spaten,125081
+Belo Horizonte,Funcionários,Verão,Heineken,107547
+Belo Horizonte,Funcionários,Verão,Spaten,89764
+Belo Horizonte,Funcionários,Outono,Heineken,136988
+Belo Horizonte,Funcionários,Outono,Spaten,68484
+Belo Horizonte,Funcionários,Inverno,Heineken,137544
+Belo Horizonte,Funcionários,Inverno,Spaten,84640
+Belo Horizonte,Funcionários,Primavera,Heineken,95502
+Belo Horizonte,Funcionários,Primavera,Spaten,91358
+Belo Horizonte,Estoril,Verão,Heineken,83351
+Belo Horizonte,Estoril,Verão,Spaten,91628
+Belo Horizonte,Estoril,Outono,Heineken,122767
+Belo Horizonte,Estoril,Outono,Spaten,56199
+Belo Horizonte,Estoril,Inverno,Heineken,100088
+Belo Horizonte,Estoril,Inverno,Spaten,61388
+Belo Horizonte,Estoril,Primavera,Heineken,107468
+Belo Horizonte,Estoril,Primavera,Spaten,111180
+Belo Horizonte,Buritis,Verão,Heineken,123797
+Belo Horizonte,Buritis,Verão,Spaten,63163
+Belo Horizonte,Buritis,Outono,Heineken,117124
+Belo Horizonte,Buritis,Outono,Spaten,66185
+Belo Horizonte,Buritis,Inverno,Heineken,95629
+Belo Horizonte,Buritis,Inverno,Spaten,80368
+Belo Horizonte,Buritis,Primavera,Heineken,92961
+Belo Horizonte,Buritis,Primavera,Spaten,123690
+Belo Horizonte,Sion,Verão,Heineken,117103
+Belo Horizonte,Sion,Verão,Spaten,61455
+Belo Horizonte,Sion,Outono,Heineken,96572
+Belo Horizonte,Sion,Outono,Spaten,102402
+Belo Horizonte,Sion,Inverno,Heineken,114035
+Belo Horizonte,Sion,Inverno,Spaten,58389
+Belo Horizonte,Sion,Primavera,Heineken,86511
+Belo Horizonte,Sion,Primavera,Spaten,70142
+Belo Horizonte,Nova Lima,Verão,Heineken,145745
+Belo Horizonte,Nova Lima,Verão,Spaten,84532
+Belo Horizonte,Nova Lima,Outono,Heineken,103474
+Belo Horizonte,Nova Lima,Outono,Spaten,108576
+Belo Horizonte,Nova Lima,Inverno,Heineken,115669
+Belo Horizonte,Nova Lima,Inverno,Spaten,94629
+Belo Horizonte,Nova Lima,Primavera,Heineken,99267
+Belo Horizonte,Nova Lima,Primavera,Spaten,104773
+Belo Horizonte,Santa Tereza,Verão,Heineken,213302
+Belo Horizonte,Santa Tereza,Verão,Spaten,74689
+Belo Horizonte,Santa Tereza,Outono,Heineken,134076
+Belo Horizonte,Santa Tereza,Outono,Spaten,90823
+Belo Horizonte,Santa Tereza,Inverno,Heineken,110739
+Belo Horizonte,Santa Tereza,Inverno,Spaten,101112
+Belo Horizonte,Santa Tereza,Primavera,Heineken,122121
+Belo Horizonte,Santa Tereza,Primavera,Spaten,64111
+Belo Horizonte,Serra,Verão,Heineken,99238
+Belo Horizonte,Serra,Verão,Spaten,122426
+Belo Horizonte,Serra,Outono,Heineken,83720
+Belo Horizonte,Serra,Outono,Spaten,121765
+Belo Horizonte,Serra,Inverno,Heineken,68232
+Belo Horizonte,Serra,Inverno,Spaten,77799
+Belo Horizonte,Serra,Primavera,Heineken,141714
+Belo Horizonte,Serra,Primavera,Spaten,91079
+Belo Horizonte,Serra Verde,Verão,Heineken,165068
+Belo Horizonte,Serra Verde,Verão,Spaten,165141
+Belo Horizonte,Serra Verde,Outono,Heineken,108740
+Belo Horizonte,Serra Verde,Outono,Spaten,59899
+Belo Horizonte,Serra Verde,Inverno,Heineken,144943
+Belo Horizonte,Serra Verde,Inverno,Spaten,69764
+Belo Horizonte,Serra Verde,Primavera,Heineken,136478
+Belo Horizonte,Serra Verde,Primavera,Spaten,81060
+Belo Horizonte,Venda Nova,Verão,Heineken,113518
+Belo Horizonte,Venda Nova,Verão,Spaten,96619
+Belo Horizonte,Venda Nova,Outono,Heineken,70950
+Belo Horizonte,Venda Nova,Outono,Spaten,84530
+Belo Horizonte,Venda Nova,Inverno,Heineken,76453
+Belo Horizonte,Venda Nova,Inverno,Spaten,45568
+Belo Horizonte,Venda Nova,Primavera,Heineken,104210
+Belo Horizonte,Venda Nova,Primavera,Spaten,96991
+Belo Horizonte,Barreiro,Verão,Heineken,146448
+Belo Horizonte,Barreiro,Verão,Spaten,93360
+Belo Horizonte,Barreiro,Outono,Heineken,96078
+Belo Horizonte,Barreiro,Outono,Spaten,65456
+Belo Horizonte,Barreiro,Inverno,Heineken,98825
+Belo Horizonte,Barreiro,Inverno,Spaten,65355
+Belo Horizonte,Barreiro,Primavera,Heineken,120360
+Belo Horizonte,Barreiro,Primavera,Spaten,88768
+Belo Horizonte,Lourdes,Verão,Heineken,195153
+Belo Horizonte,Lourdes,Verão,Spaten,78404
+Belo Horizonte,Lourdes,Outono,Heineken,105729
+Belo Horizonte,Lourdes,Outono,Spaten,141492
+Belo Horizonte,Lourdes,Inverno,Heineken,144649
+Belo Horizonte,Lourdes,Inverno,Spaten,63648
+Belo Horizonte,Lourdes,Primavera,Heineken,77464
+Belo Horizonte,Lourdes,Primavera,Spaten,94625
+Belo Horizonte,Lourdes,Verão,Heineken,183244
+Belo Horizonte,Lourdes,Verão,Spaten,119570
+Belo Horizonte,Lourdes,Outono,Heineken,169823
+Belo Horizonte,Lourdes,Outono,Spaten,88933
+Belo Horizonte,Lourdes,Inverno,Heineken,100095
+Belo Horizonte,Lourdes,Inverno,Spaten,81542
+Belo Horizonte,Lourdes,Primavera,Heineken,125895
+Belo Horizonte,Lourdes,Primavera,Spaten,128807
+Belo Horizonte,São Pedro,Verão,Heineken,213865
+Belo Horizonte,São Pedro,Verão,Spaten,58084
+Belo Horizonte,São Pedro,Outono,Heineken,164446
+Belo Horizonte,São Pedro,Outono,Spaten,113793
+Belo Horizonte,São Pedro,Inverno,Heineken,85252
+Belo Horizonte,São Pedro,Inverno,Spaten,63078
+Belo Horizonte,São Pedro,Primavera,Heineken,112073
+Belo Horizonte,São Pedro,Primavera,Spaten,89786
+Belo Horizonte,Floresta,Verão,Heineken,157087
+Belo Horizonte,Floresta,Verão,Spaten,98474
+Belo Horizonte,Floresta,Outono,Heineken,144297
+Belo Horizonte,Floresta,Outono,Spaten,63843
+Belo Horizonte,Floresta,Inverno,Heineken,99004
+Belo Horizonte,Floresta,Inverno,Spaten,61167
+Belo Horizonte,Floresta,Primavera,Heineken,103402
+Belo Horizonte,Floresta,Primavera,Spaten,122268
+Belo Horizonte,Havaí,Verão,Heineken,175024
+Belo Horizonte,Havaí,Verão,Spaten,108042
+Belo Horizonte,Havaí,Outono,Heineken,93101
+Belo Horizonte,Havaí,Outono,Spaten,101726
+Belo Horizonte,Havaí,Inverno,Heineken,78370
+Belo Horizonte,Havaí,Inverno,Spaten,76758
+Belo Horizonte,Havaí,Primavera,Heineken,78484
+Belo Horizonte,Havaí,Primavera,Spaten,86470
+Belo Horizonte,Cidade Industrial,Verão,Heineken,181647
+Belo Horizonte,Cidade Industrial,Verão,Spaten,140627
+Belo Horizonte,Cidade Industrial,Outono,Heineken,121238
+Belo Horizonte,Cidade Industrial,Outono,Spaten,89941
+Belo Horizonte,Cidade Industrial,Inverno,Heineken,114579
+Belo Horizonte,Cidade Industrial,Inverno,Spaten,42211
+Belo Horizonte,Cidade Industrial,Primavera,Heineken,84134
+Belo Horizonte,Cidade Industrial,Primavera,Spaten,81836
